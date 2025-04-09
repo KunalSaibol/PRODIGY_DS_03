@@ -1,4 +1,4 @@
-ank Term Deposit Prediction using Decision Tree Classifier
+Bank Term Deposit Prediction using Decision Tree Classifier
 This project uses a Decision Tree Classifier to predict whether a client will subscribe to a term deposit based on their personal and contact details. The dataset is based on direct marketing campaigns of a Portuguese banking institution.
 
 📂 Project Structure
